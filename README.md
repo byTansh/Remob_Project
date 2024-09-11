@@ -1,8 +1,8 @@
 # Remob Project
 
 >Ferramentas utilizadas na criação do banco de dados: <br>
-       <img src="https://miro.medium.com/v2/resize:fit:1400/0*v_gz9byAfMaCPZTq.png" width="110px" height="90px" />
-
+>       <img src="https://miro.medium.com/v2/resize:fit:1400/0*v_gz9byAfMaCPZTq.png" width="110px" height="90px" />
+>
 >Linguagens utilizadas na criação do banco de dados: <br>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80px" height="70px" />
 <br>
