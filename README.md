@@ -5,9 +5,10 @@
 
 >Linguagens utilizadas na criação do banco de dados: <br>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80px" height="70px" />
->Linguagens utilizadas: <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80px" height="70px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px" height="70px" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80px" height="70px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80px" height="70px" /> 
+<br>
+       
+>Linguagens utilizadas na criação do modelo Desktop: <br>
+<img src="https://financesonline.com/uploads/2019/09/netbeans-logo1.png" width="100px" height="70px" />
             
                    
 >Projeto feito em colaboração dos seguintes participantes: <br>
