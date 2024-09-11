@@ -1,7 +1,7 @@
 # Remob Project
 
 >Ferramentas utilizadas na criação do banco de dados: <br>
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*v_gz9byAfMaCPZTq.png" width="70px" height="90px" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*v_gz9byAfMaCPZTq.png" width="110px" height="90px" />
        
 >Linguagens utilizadas: <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80px" height="70px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px" height="70px" />
