@@ -15,10 +15,10 @@
 <br>
 
 >Ferramentas utilizadas na criação do Back-end: <br>
->      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80px" height="70px" />
+>      <img src="https://w7.pngwing.com/pngs/747/41/png-transparent-intellij-macos-bigsur-icon-thumbnail.png" width="80px" height="70px" />
 >
 >Linguagens utilizadas na criação do Back-end: <br>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80px" height="70px" />
+       <img src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg" width="80px" width="80px" height="70px" />
 <br>
 
 
