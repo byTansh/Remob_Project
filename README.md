@@ -11,14 +11,14 @@
 >       <img src="https://financesonline.com/uploads/2019/09/netbeans-logo1.png" width="140px" height="70px" />            
 >
 >Linguagens utilizadas na criação do Desktop: <br>
-       <img src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg" width="80px" height="90px" />
+       <img src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg" width="80px" height="110px" />
 <br>
 
 >Ferramentas utilizadas na criação do Back-end: <br>
 >      <img src="https://seeklogo.com/images/J/jetbrains-intellij-idea-logo-CA1D5DC51F-seeklogo.com.png" width="80px" height="80px" />
 >
 >Linguagens utilizadas na criação do Back-end: <br>
-       <img src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg" width="80px" width="80px" height="900px" />
+       <img src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg" width="80px" width="80px" height="110px" />
 <br>
 
 
