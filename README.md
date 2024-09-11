@@ -8,7 +8,7 @@
 <br>
        
 >Linguagens utilizadas na criação do modelo Desktop: <br>
-<img src="https://financesonline.com/uploads/2019/09/netbeans-logo1.png" width="100px" height="70px" />
+<img src="https://financesonline.com/uploads/2019/09/netbeans-logo1.png" width="130px" height="70px" />
             
                    
 >Projeto feito em colaboração dos seguintes participantes: <br>
