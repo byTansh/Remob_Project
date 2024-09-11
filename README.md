@@ -1,12 +1,14 @@
 # Remob Project
 
 >Ferramentas utilizadas na criação do banco de dados: <br>
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*v_gz9byAfMaCPZTq.png" width="110px" height="90px" />
-       
+       <img src="https://miro.medium.com/v2/resize:fit:1400/0*v_gz9byAfMaCPZTq.png" width="110px" height="90px" />
+
+>Linguagens utilizadas na criação do banco de dados: <br>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80px" height="70px" />
 >Linguagens utilizadas: <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80px" height="70px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px" height="70px" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80px" height="70px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80px" height="70px" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80px" height="70px" />
+            
                    
 >Projeto feito em colaboração dos seguintes participantes: <br>
 ><p>   Luy Fernandes: <a href="https://www.linkedin.com/in/luuy-fernandes-47a6292b8/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p/>
