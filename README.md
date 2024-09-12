@@ -11,14 +11,14 @@
 >       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="50px" height="60px" />            
 >
 >Linguagens utilizadas na criação do Desktop: <br>
-       <img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" width="110px" height="90px" />
+       <img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" width="130px" height="90px" />
 <br>
 
 >Ferramentas utilizadas na criação do Web: <br>
 >      <img src="https://seeklogo.com/images/J/jetbrains-intellij-idea-logo-CA1D5DC51F-seeklogo.com.png" width="80px" height="80px" />
 >
 >Linguagens utilizadas na criação do Web: <br>
-       <img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" width="110px" width="100px" height="90px" />
+       <img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" width="130px" width="100px" height="90px" />
 <br>
 
 
