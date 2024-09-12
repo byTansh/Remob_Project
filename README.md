@@ -8,7 +8,7 @@
 <br>
        
 >Ferramentas utilizadas na criação do Desktop: <br>
->       <img src="https://financesonline.com/uploads/2019/09/netbeans-logo1.png" width="170px" height="70px" />            
+>       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="90px" height="90px" />            
 >
 >Linguagens utilizadas na criação do Desktop: <br>
        <img src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg" width="110px" height="90px" />
