@@ -1,8 +1,5 @@
 # Remob Project
 
-
-# Open Library Project
-
 <h3>Banco de dados utilizado:</h3>
 
 > <img src="https://miro.medium.com/v2/resize:fit:1400/0*v_gz9byAfMaCPZTq.png" width="110px" height="90px" width="90px" height="80px" />
