@@ -11,7 +11,7 @@
 <h3>Técnologias utilizadas para o Desktop:</h3>
 
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="50px" height="60px" /> 
-> <img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" width="130px" height="90px" />
+> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png?f=webp" width="110px" height="90px" />
 <br>
 
 <h3>Técnologias utilizadas para o back-end Web:</h3>
